@@ -45,3 +45,23 @@
 .yellow{
     background-color: yellow;
 }
+
+ul{
+    padding-inline-start: 15px;
+    font-size: 0.8em;
+}
+
+table{
+    border-spacing: 0px;
+    width:100%;
+    height:auto;
+}
+
+.table-top{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.table-second-color{
+    background-color: #b1e5f2;
+}
