@@ -65,3 +65,33 @@ table{
 .table-second-color{
     background-color: #b1e5f2;
 }
+
+.footer-first{
+    background-image: url('img/monitor.jpg');
+    background-repeat: no-repeat;
+    width: 230px;
+    height: 230px;
+    color: white;
+    text-transform: capitalize;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.footer-second{
+    background-image: url('img/graph.jpg');
+    background-repeat: no-repeat;
+    width: 230px;
+    height: 230px;
+    color: white;
+    text-transform: capitalize;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+h3{
+    color: grey;
+}
+
+h4{
+    margin:0px;
+}
