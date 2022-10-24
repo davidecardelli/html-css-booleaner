@@ -1,0 +1,32 @@
+.container{
+    width: 70%;
+    margin: 0px auto;
+}
+
+.logo{
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+    background-position: top;
+    background-size: 28%;
+}
+
+.title{
+    text-align: left;
+    font-size: 30pt;
+    margin-bottom: 2px;
+    margin-top: 8px;
+}
+
+#logo-sx{
+    width: 10%;
+    height: auto;
+    margin: 20px
+}
+
+.author{
+    color: grey
+}
+
+.date {
+    font-size: 10px;
+}
